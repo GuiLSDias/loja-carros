@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #111;
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.car-item {
+    background-color: #111;
+    color: #fff;
+    border-radius: 4px;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 400px;
+    text-align: left;
+}
+
+.car-item h2 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+.car-item h2 span {
+    color: #febe01;
+}
+
+.car-item p {
+    font-size: 14px;
+    color: #b2b2b2;
+}
+
+.car-item strong {
+    color: #febe01;
+}
+
+button {
+    background-color: #febe01;
+    color: #332200;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 15px;
+    text-align: center;
+}
+
+button:hover {
+    background-color: #e5ac01;
+}
